@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  float: left;
+  clear: both;
+  height: 38px;
+  width: 800px;
+
+}
+
+#table_basic {
+  clear: left;
+  float: left;
+  width: 650px;
+}
+
+#wechat {
+  margin-left: 20px;
+  float: left;
+}
+
+.content {
+  clear: both;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.table_common {
+  width: 800px;
+}
+
+.table800px {
+  width: 800px;
+}
